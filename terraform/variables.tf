@@ -19,7 +19,7 @@ variable "resource_group_name" {
 variable "acr_name" {
   description = "Name of the service plan"
   type = string
-  default = "myacrsam"
+  default = "myacryash"
 }
 
 variable "os" {
