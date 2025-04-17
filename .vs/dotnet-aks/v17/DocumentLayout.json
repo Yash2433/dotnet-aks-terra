@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yashd\\source\\repos\\dotnet-aks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE5497A5-047C-4B96-A672-2CED881F918E}|dotnet-aks\\dotnet-aks.csproj|c:\\users\\yashd\\source\\repos\\dotnet-aks\\dotnet-aks\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CE5497A5-047C-4B96-A672-2CED881F918E}|dotnet-aks\\dotnet-aks.csproj|solutionrelative:dotnet-aks\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\yashd\\source\\repos\\dotnet-aks\\dotnet-aks\\Dockerfile",
+              "RelativeDocumentMoniker": "dotnet-aks\\Dockerfile",
+              "ToolTip": "C:\\Users\\yashd\\source\\repos\\dotnet-aks\\dotnet-aks\\Dockerfile",
+              "RelativeToolTip": "dotnet-aks\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-17T08:53:08.28Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
